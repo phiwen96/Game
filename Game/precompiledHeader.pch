@@ -1,0 +1,27 @@
+#pragma once
+#import <iostream>
+#import <math.h>
+#import <vector>
+#import <functional>
+#import <thread>
+#import <unordered_map>
+#import <algorithm>
+#import <map>
+#import <fstream>
+#import <array>
+#import <set>
+#import <deque>
+#import <optional>
+#import <stdlib.h>
+#import <stdio.h>
+#import <cstdlib>
+#import <optional>
+#import <boost/signals2.hpp>
+#import <chrono>
+using namespace std::chrono;
+using namespace boost::signals2;
+using namespace std;
+
+
+      
+
